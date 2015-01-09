@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: a1aaf5704664ee14eae88c13d3e3191f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Running1
+    21300002: Running2
+    21300004: Running3
+    21300006: Jumping1
+    21300008: Jumping2
+    21300010: Idle1
+    21300012: Idle2
+    21300014: Idle3
+    21300016: Idle4
+    21300018: Running4
+    21300020: Running5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Running1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 95
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jumping1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jumping2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 95
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 48
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
